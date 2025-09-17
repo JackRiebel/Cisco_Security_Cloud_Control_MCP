@@ -1,0 +1,2 @@
+CDO_API_BASE_URL=https://api.us.security.cisco.com/firewall/v1
+CDO_API_TOKEN=Your_CDO_API_Token_here
