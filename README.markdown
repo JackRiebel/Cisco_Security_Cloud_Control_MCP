@@ -19,7 +19,7 @@ Cisco Defense Orchestrator MCP is a Python-based Model Context Protocol (MCP) se
 
   ```
   git clone https://github.com/your-username/cdo-mcp.git
-  cd cdo-mcp
+  cd Cisco_Security_Cloud_Control_MCP
   ```
 
 1. Create a virtual environment and activate it:
